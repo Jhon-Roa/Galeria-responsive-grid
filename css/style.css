@@ -18,7 +18,9 @@ body {
     border-radius: 4px;
     transition: transform 0.3s ease-in-out;
 
-    border: solid 1px rgb(255, 255, 255);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .grid-item:hover {
